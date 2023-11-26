@@ -283,7 +283,8 @@ body{
     }
 
     #page3 .child{
-        width: 40vw;
+        width: auto;
+        height: auto;
     }
     
     #nav{
