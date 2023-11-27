@@ -278,6 +278,7 @@ body{
     margin-right: auto;
     font-family: Helvetica, Sans-Serif;
 }
+
 =======
 #page3 .child img{
     height: 100%;
@@ -451,6 +452,10 @@ body{
         height: 40px;
     }
 
+    .footer-logo svg{
+        width:100px;
+        height: 100px;
+    }
  
 
 
