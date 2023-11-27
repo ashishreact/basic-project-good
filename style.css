@@ -419,6 +419,11 @@ strong{
         padding: 5vw 3vw;
         flex-direction: column;
     }
+
+    #page3 .child{
+        width: 400px;
+        height: auto;
+    }
     #page4{
         padding: 5vw 3vw;
     }
@@ -426,10 +431,7 @@ strong{
 <<<<<<< HEAD
  
 =======
-    #page3 .child{
-        width: auto;
-        height: auto;
-    }
+ 
 >>>>>>> 508f112c5ed7c02d3cebbce7811a4a7663f0a491
     
     #nav{
