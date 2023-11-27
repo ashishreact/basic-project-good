@@ -412,6 +412,9 @@ strong{
 
 
 @media (max-width:600px) {
+    #play{
+        display: none;
+    }
     .footer-title{
         font-size: 14px;
     }
