@@ -267,8 +267,6 @@ img{
 }
 
 .footer-title{
- 
-    transform: translate(0px, 0px);
     font-family: futura;
 }
 .footer-text{
@@ -414,6 +412,9 @@ strong{
 
 
 @media (max-width:600px) {
+    .footer-title{
+        font-size: 14px;
+    }
     #page3 {
         padding: 5vw 3vw;
         flex-direction: column;
