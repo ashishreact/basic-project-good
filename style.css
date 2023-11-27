@@ -288,6 +288,7 @@ body{
     padding: 3vw 1vw;
     font-family: futura;
     background-color: #33333308 ;
+    padding: 5vw 3vw;
 }
 
 .main-footer{
@@ -411,7 +412,10 @@ strong{
 
 @media (max-width:600px) {
     #page3 {
-        padding: 25px;
+        padding: 5vw 3vw;
+    }
+    #page4{
+        padding: 5vw 3vw;
     }
 
 <<<<<<< HEAD
